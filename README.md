@@ -27,11 +27,28 @@ This project fetches the user's music data from Spotify's API when they log in. 
 - ![Login Menu](/images/login.png?!raw=true)  or  ![Create Basic User](/images/userCreation.png?!raw=true)
 - The user will have a different menu depending on whether or not they have admin privileges
 - ![Admin Menu](/images/adminMenu.png?!raw=true)  or  ![Basic Menu](/images/basicMenu.png?!raw=true)
+- Both types of users can change their username or password
+- ![Change Username](/images/changeUsername.png?!raw=true) or ![Change Password](/images/changePassword.png?!raw=true)
+- Admin User Management Menu:
+- ![User Management Menu](/images/userManagement.png?!raw=true)
 - Admin can choose to delete a basic user
 - ![Delete User 1](/images/deleteUser_1.png?!raw=true)  ![Delete User 2](/images/deleteUser_2.png?!raw=true)
 - Admin can also give a basic user admin privileges
 - ![Give Admin](/images/giveAdmin.png?!raw=true)
-
+- Both types of users can access the query menu
+- ![Query Menu](/images/queryMenu.png?!raw=true)
+- Query 1
+- ![Query 1](/images/query1.png?!raw=true)
+- Query 2
+- ![Query 2](/images/query2.png?!raw=true)
+- Query 3
+- ![Query 3](/images/query3.png?!raw=true)
+- Query 4
+- ![Query 4 1](/images/query4_1.png?!raw=true) ![Query 4 2](/images/query4_2.png?!raw=true)
+- Query 5
+- ![Query 5](/images/query5.png?!raw=true)
+- Query 6
+- ![Query 6](/images/query6.png?!raw=true)
 
 # Original Project Guidelines
 ## Project 1
