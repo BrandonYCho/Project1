@@ -12,7 +12,6 @@ import java.time.LocalDate
 import scala.collection.mutable.ArrayBuffer
 import scala.io.StdIn.{readInt, readLine}
 
-
 object HiveMaster extends SparkConnection {
   // generateSalt
   val salt = "$2a$10$/UdoECyyigsRmTG9q8TOq."

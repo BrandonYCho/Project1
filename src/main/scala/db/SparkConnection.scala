@@ -4,7 +4,7 @@ import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.{DataFrame, SparkSession}
 
 class SparkConnection {
-  // Create the Spark session so we can connect to Hive, similar to MySQL
+  // Create the Spark session so we can connect to database, similar to MySQL
   def sparkConnect(): SparkSession = {
     // Logger lines are for getting rid of unnecessary console output
     Logger.getLogger("org.apache.spark").setLevel(Level.ERROR)

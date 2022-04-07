@@ -148,7 +148,7 @@ object BasicMaster {
         newPassword = readLine()
         if (newPassword.nonEmpty)
           if (HiveMaster.updatePassword(userID, oldPassword, newPassword)) {
-            print("Password successfully changed")
+            println("Password successfully changed")
             UserMenu.returning()
             state = "User Menu"
           } else {
