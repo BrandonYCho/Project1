@@ -26,7 +26,7 @@ This project fetches the user's music data from Spotify's API when they log in. 
 - 
 
 
-### Original Project Guidelines
+# Original Project Guidelines
 ## Project 1
 - Project 1 will be a Scala console application that is retrieving data using Hive or MapReduce. Your job is to build a real-time news analyzer. This application should allow users to view the trending topics (e.g. all trending topics for news related to "politics", "tv shows", "movies", "video games", or "sports" only [choose one topic for project]). Or it can analyze data on any topic of your choice.
 - You must present a project proposal to trainer and be approved before proceeding with project. 
