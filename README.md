@@ -23,7 +23,8 @@ This project fetches the user's music data from Spotify's API when they log in. 
 - I included a default database in this version to test queries
 - A default admin account is created on intialization
   - Username: admin, Password: admin
-- 
+- Log in using default admin account or create a new basic account
+  - ![Login Menu](/images/login.png?!raw=true) 
 
 
 # Original Project Guidelines
