@@ -23,10 +23,17 @@ This project fetches the user's music data from Spotify's API when they log in. 
 - I included a default database in this version to test queries
 - A default admin account is created on intialization
   - Username: admin, Password: admin
-- 
+- Log in using default admin account or create a new basic account
+- ![Login Menu](/images/login.png?!raw=true)  or  ![Create Basic User](/images/userCreation.png?!raw=true)
+- The user will have a different menu depending on whether or not they have admin privileges
+- ![Admin Menu](/images/adminMenu.png?!raw=true)  or  ![Basic Menu](/images/basicMenu.png?!raw=true)
+- Admin can choose to delete a basic user
+- ![Delete User 1](/images/deleteUser_1.png?!raw=true)  ![Delete User 2](/images/deleteUser_2.png?!raw=true)
+- Admin can also give a basic user admin privileges
+- ![Give Admin](/images/giveAdmin.png?!raw=true)
 
 
-### Original Project Guidelines
+# Original Project Guidelines
 ## Project 1
 - Project 1 will be a Scala console application that is retrieving data using Hive or MapReduce. Your job is to build a real-time news analyzer. This application should allow users to view the trending topics (e.g. all trending topics for news related to "politics", "tv shows", "movies", "video games", or "sports" only [choose one topic for project]). Or it can analyze data on any topic of your choice.
 - You must present a project proposal to trainer and be approved before proceeding with project. 
