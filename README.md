@@ -24,7 +24,13 @@ This project fetches the user's music data from Spotify's API when they log in. 
 - A default admin account is created on intialization
   - Username: admin, Password: admin
 - Log in using default admin account or create a new basic account
-![Login Menu](/images/login.png?!raw=true)  or  ![Create Basic User](/images/userCreation.png?!raw=true)
+- ![Login Menu](/images/login.png?!raw=true)  or  ![Create Basic User](/images/userCreation.png?!raw=true)
+- The user will have a different menu depending on whether or not they have admin privileges
+- ![Admin Menu](/images/adminMenu.png?!raw=true)  or  ![Basic Menu](/images/basicMenu.png?!raw=true)
+- Admin can choose to delete a basic user
+- ![Delete User 1](/images/deleteUser_1.png?!raw=true)  ![Delete User 2](/images/deleteUser_2.png?!raw=true)
+- Admin can also give a basic user admin privileges
+- ![Give Admin](/images/giveAdmin.png?!raw=true)
 
 
 # Original Project Guidelines
